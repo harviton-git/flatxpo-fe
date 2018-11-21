@@ -1,2 +1,2 @@
 # flatxpo-fe
-flatxpo is a project showcase app written in React/Redux
+flatxpo-fe is a frontend project showcase app written in React/Redux
